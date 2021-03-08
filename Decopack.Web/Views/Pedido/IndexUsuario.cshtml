@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Decopack.EE.Pedido>
+
+@{
+    ViewBag.Title = "IndexUsuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-dismissable alert-info">
+        <button type="submit" class="close" data-dismiss="alert" style="background-color:darkseagreen">
+            &times;
+        </button>
+        <button style="background-color:darkseagreen">   @TempData["Message"]</button>
+    </div>
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">@Recursos.Recurso.pedidoindexusuario1</p><br />
+
+    </div>
+</form>
+
+<h2>@Recursos.Recurso.pedidoindexusuario2</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Monto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aprobado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comprador.Nombre)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Monto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aprobado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comprador.Nombre)
+            </td>
+            <td>
+                @if (item.Estado == "Pendiente de Pago")
+                {
+                    @Html.ActionLink(@Recursos.Recurso.pagar, "PagarUsuario", new { id = item.Id }, new { @class = "button" })
+                }
+                @if (item.Estado == "Pagado")
+                {
+                    @Html.ActionLink(@Recursos.Recurso.verenvio, "VerEnvioUnico", new { id = item.Id }, new { @class = "button" })
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+

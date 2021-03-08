@@ -1,0 +1,133 @@
+﻿@model PagedList.IPagedList<Decopack.EE.Pedido>
+
+
+@using PagedList.Mvc;
+
+@{
+
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (TempData["Message"]  != null)
+{
+    <div class="alert alert-dismissable alert-info">
+        <button type="submit" class="close" data-dismiss="alert" style="background-color:darkseagreen">
+            &times;
+        </button>
+        <button style="background-color:darkseagreen">   @TempData["Message"]</button>
+    </div>
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">@Recursos.Recurso.pedidoindex1</p><br />
+
+    </div>
+</form>
+<h2>@Recursos.Recurso.listapedidos</h2>
+
+
+
+@using (Html.BeginForm("Index", "Pedido", FormMethod.Get))
+{
+    <p>
+        @Recursos.Recurso.buscarpordni @Html.TextBox("SearchString", ViewBag.CurrentFilter as string) <br />
+        <input type="submit" value="@Recursos.Recurso.buscar" />
+    </p>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Recursos.Recurso.fecha
+        </th>
+        <th>
+            @Recursos.Recurso.nombreproducto
+        </th>
+        <th>
+            @Recursos.Recurso.monto
+        </th>
+        <th>
+            @Recursos.Recurso.estado
+        </th>
+        <th>
+            @Recursos.Recurso.cantidad
+        </th>
+        <th>
+            @Recursos.Recurso.descripcion
+        </th>
+        <th>
+            @Recursos.Recurso.aprobado
+        </th>
+        <th>
+            @Recursos.Recurso.dnicomprador
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Monto)
+            </td>
+            <td>
+                @if (ViewBag.estado == null)
+                {
+                    @Html.DisplayFor(modelItem => item.Estado)
+                }
+                else
+                {
+                    @ViewBag.estado
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aprobado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comprador.Dni)
+            </td>
+            <td>
+                @if (item.Estado == "En Espera")
+                {
+                    @Html.ActionLink(@Recursos.Recurso.aprobar, "Aprobar", new { id = item.Id }, new { @class = "button" })
+                }
+                @*@if (item.Estado == "Pendiente de Pago")
+                    {
+                        @Html.ActionLink(@Recursos.Recurso.pagar, "Pagar", new { id = item.Id }, new { @class = "button" })
+                    }
+                    @if (item.Estado == "Pagado")
+                    {
+                        @Html.ActionLink(@Recursos.Recurso.verenvio, "VerEnvio", new { id = item.Id }, new { @class = "button" })
+                    }*@
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+@Recursos.Recurso.pagina @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) @Recursos.Recurso.de @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+
+
+
+
+

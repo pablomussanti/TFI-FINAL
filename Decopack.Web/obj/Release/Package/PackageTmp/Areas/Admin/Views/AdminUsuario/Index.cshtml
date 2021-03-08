@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Decopack.Servicios.Usuario>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se ve el listado de los usuarios en el sistema</p><br />
+
+    </div>
+</form>
+
+<h2>Listado de Usuarios:</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comprador.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Empleado.Nombre)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comprador.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Empleado.Nombre)
+        </td>
+        <td>
+            @Html.ActionLink("Comprador", "AsignarComprador", new { id = item.Identificador }) |
+            @Html.ActionLink("Empleado", "AsignarEmpleado", new { id = item.Identificador }) |
+            @Html.ActionLink("Eliminar", "EliminarUsuario", new { id = item.Identificador }) |
+            @if (item.LockoutEndDateUtc > DateTime.Now)
+            {
+                @Html.ActionLink("Desbloquear", "Desbloquear", new { id = item.Identificador });
+            }
+
+
+        </td>
+    </tr>
+}
+
+</table>

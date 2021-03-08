@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Decopack.EE.MateriaPrimaProducto>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se muestra la composicion de materia prima de cada producto</p><br />
+
+    </div>
+</form>
+
+<h2>Listado de Materia Prima - Producto:</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Nombre del Producto
+        </th>
+        <th>
+            Nombre de la Materia Prima
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Producto.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MateriaPrima.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cantidad)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id }, new { @class = "button" }) 
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.Id }, new { @class = "button" })
+        </td>
+    </tr>
+}
+
+</table>

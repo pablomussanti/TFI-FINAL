@@ -1,0 +1,24 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="nav navbar-nav">
+            @if (HttpContext.Current.User.IsInRole("EmpleadoSucursal"))
+            {
+                <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.pedido, "Index", "Pedido")</li>
+            }
+            @if (HttpContext.Current.User.IsInRole("EncargadoDeposito"))
+            {
+                <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.envio, "Index", "Envio")</li>
+            }
+            @if (HttpContext.Current.User.IsInRole("EmpleadoEntrega"))
+            {
+                 <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.misenvios, "IndexEmpleado", "Envio")</li>
+            }
+                <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.mispedidos, "IndexUsuario", "Pedido")</li>
+
+        </ul>
+    </div>
+
+
+}

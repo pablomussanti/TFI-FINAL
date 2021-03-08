@@ -1,0 +1,95 @@
+﻿
+@model PagedList.IPagedList<Decopack.EE.Producto>
+
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se muestran los productos cargados en el sistema. Con el boton actualizar precio, los productos obtienen su valor minimo de venta el cual se usara de base para su monto.</p><br />
+
+    </div>
+</form>
+
+<h2>PRODUCTOS</h2>
+<p>
+    @Html.ActionLink("Actualizar Precios", "Actualizar", null, new { @class = "button" })
+</p>
+<p>
+    @Html.ActionLink("Crear Nuevo Producto", "Create", null, new { @class = "button" })
+</p>
+@using (Html.BeginForm("Index", "Producto", FormMethod.Get))
+ {
+<p>
+        Buscar por Nombre: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string) <br />
+        <input type="submit" value="Buscar" />
+    </p>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Nombre", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Precio
+        </th>
+        <th>
+            Estado
+        </th>
+        <th>
+            Descripcion
+        </th>
+        <th>
+            Imagen
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                <img width="50" height="50" src="@Url.Action("getimage", "Producto", new { id = item.Id })"
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "button" }) 
+                @Html.ActionLink("Activar/Desactivar", "Delete", new { id = item.Id }, new { @class = "button" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+Página @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) de @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+
+
+@if (ViewBag.showSuccessAlert)
+{
+    <script>
+        alert('Los datos fueron corrompidos');
+    </script>
+}
+

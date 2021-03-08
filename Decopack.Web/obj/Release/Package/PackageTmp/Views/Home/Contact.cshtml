@@ -1,0 +1,98 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<h2>Index</h2>
+<head>
+    <meta charset="utf-8" />
+    <title>Leaflet OSRM Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="~/Content/leaflet-routing-machine.css" />
+</head>
+<body>
+
+    <div id="map" class="map"></div>
+    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+    <script src="~/Scripts/leaflet-routing-machine.js"></script>
+    <script src="~/Scripts/Control.Geocoder.js"></script>
+    <script src="~/Scripts/config.js"></script>
+    <script src="~/Scripts/index.js"></script>
+</body>
+
+
+<address>
+    One Microsoft Way<br />
+    Redmond, WA 98052-6399<br />
+    <abbr title="Phone">P:</abbr>
+    425.555.0100
+</address>
+
+<address>
+    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
+    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+</address>
+
+<div id="map"></div>
+<script>
+    var map;
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+            center: { lat: -34.397, lng: 150.644 },
+            zoom: 8
+        });
+    }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"
+        async defer></script>
+
+
+            <li>
+                <span class="opener">Necesitas ayuda?</span>
+                <ul>
+                    asdasdasdasdas
+                </ul>
+            </li>
+
+
+
+        @section Scripts{
+            <script type="text/javascript">
+
+
+                var camionlat = -34.6131500;
+                var camionlng = -58.3772300;
+                //var destinolat = -31.4135000;
+                //var destinolng = -64.1810500;
+
+                var map = L.map('map');
+
+                L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
+
+                var control = L.Routing.control(L.extend(window.lrmConfig, {
+                    waypoints: [
+                        L.latLng(camionlat, camionlng),
+                        L.latLng(destinolat, destinolng)
+                    ],
+                    geocoder: L.Control.Geocoder.nominatim(),
+                    routeWhileDragging: true,
+                    reverseWaypoints: true,
+                    showAlternatives: true,
+                    altLineOptions: {
+                        styles: [
+                            { color: 'black', opacity: 0.15, weight: 9 },
+                            { color: 'white', opacity: 0.8, weight: 6 },
+                            { color: 'blue', opacity: 0.5, weight: 2 }
+                        ]
+                    }
+                })).addTo(map);
+
+                L.Routing.errorControl(control).addTo(map);
+
+            </script>
+
+        }

@@ -1,0 +1,35 @@
+C:\Users\elmus\source\repos\Decopack\Decopack.EE\bin\Debug\Decopack.EE.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.EE\bin\Debug\Decopack.EE.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.EE\obj\Debug\Decopack.EE.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.EE\obj\Debug\Decopack.EE.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.EE\obj\Debug\Decopack.EE.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.EE\obj\Debug\Decopack.EE.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.EE\bin\Debug\Decopack.EE.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.EE\bin\Debug\Decopack.EE.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.EE\obj\Debug\Decopack.EE.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.EE\obj\Debug\Decopack.EE.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.EE\obj\Debug\Decopack.EE.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.EE\obj\Debug\Decopack.EE.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.EE\bin\Debug\Decopack.EE.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.EE\bin\Debug\Decopack.EE.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.EE\bin\Debug\Decopack.EE.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.EE\bin\Debug\Decopack.EE.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.csprojAssemblyReference.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\bin\Debug\Decopack.EE.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\bin\Debug\Decopack.EE.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\bin\Debug\en-US\Decopack.EE.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.csprojAssemblyReference.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.Recursos.Recurso.resources
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.Recursos.Recurso.en-US.resources
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.csproj.GenerateResource.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.csproj.CoreCompileInputs.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\en-US\Decopack.EE.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Debug\Decopack.EE.pdb

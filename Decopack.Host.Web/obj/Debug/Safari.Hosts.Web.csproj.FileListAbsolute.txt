@@ -1,0 +1,92 @@
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Hosts.Web.dll.config
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Hosts.Web.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Hosts.Web.pdb
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Newtonsoft.Json.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Business.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Data.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Entities.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Framework.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Services.Contracts.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Services.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Services.Http.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Swashbuckle.Core.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.Http.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\WebActivatorEx.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.Mvc.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.Razor.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Business.pdb
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Data.pdb
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Services.Contracts.pdb
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Services.Http.pdb
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Services.pdb
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Entities.pdb
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Safari.Framework.pdb
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Newtonsoft.Json.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.Http.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.Mvc.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.Razor.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\obj\Debug\Safari.Hosts.Web.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\obj\Debug\Safari.Hosts.Web.dll
+C:\Users\navegador\Source\Repos\MCGA_092019\Hosts\Safari.Hosts.Web\obj\Debug\Safari.Hosts.Web.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Hosts.Web.dll.config
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Hosts.Web.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Hosts.Web.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Business.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Data.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Entities.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Framework.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Services.Contracts.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Services.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Services.Http.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Swashbuckle.Core.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.Http.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\WebActivatorEx.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.Mvc.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.Razor.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Business.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Data.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Services.Contracts.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Services.Http.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Services.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Entities.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Safari.Framework.pdb
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.Http.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.Mvc.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.Razor.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\obj\Debug\Safari.Hosts.Web.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\obj\Debug\Safari.Hosts.Web.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\obj\Debug\Safari.Hosts.Web.csproj.CopyComplete
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\obj\Debug\Safari.Hosts.Web.dll
+C:\Users\Pablo\Desktop\MCGA PARCIAL 1\Ejemplo Ivan\Hosts\Safari.Hosts.Web\obj\Debug\Safari.Hosts.Web.pdb

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<Decopack.EE.Envio>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-dismissable alert-info">
+        <button type="submit" class="close" data-dismiss="alert" style="background-color:darkseagreen">
+            &times;
+        </button>
+        <button style="background-color:darkseagreen">   @TempData["Message"]</button>
+    </div>
+}
+<br />
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">@Recursos.Recurso.envioindex1 </p><br />
+
+    </div>
+</form>
+
+<h2>@Recursos.Recurso.envioindex2</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodVenta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fechadellegada)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fechadesalida)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmpleadoDeposito.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fechadellegada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fechadesalida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpleadoDeposito.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+
+                @if (item.EmpleadoDeposito.Nombre == "Sin Asignar")
+                {
+                    @Html.ActionLink(@Recursos.Recurso.asignar, "Asignar", new { id = item.Id }, new { @class = "button" })
+                }
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+

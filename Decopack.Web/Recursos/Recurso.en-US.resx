@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="aprobado" xml:space="preserve">
+    <value>Approved</value>
+  </data>
+  <data name="aprobar" xml:space="preserve">
+    <value>Approve</value>
+  </data>
+  <data name="Areas" xml:space="preserve">
+    <value>Areas</value>
+  </data>
+  <data name="asignar" xml:space="preserve">
+    <value>Asign</value>
+  </data>
+  <data name="bienvenida1" xml:space="preserve">
+    <value>DecoPacks is an Argentine company with 2 years in the market, dedicated to meeting the demand for primary and secondary packaging design oriented to cosmetics for subsequent production.
+It is made up of a group of entrepreneurs united with a common goal: to improve the image of their product. If you need to find a company specialized in packaging design and / or advise you on the creation of the container for your product looking for a firm image that makes it attractive, DecoPacks is without a doubt what you need.
+It has a specialized service that allows the design of products with ingenuity, imagination, speed and efficiency.</value>
+  </data>
+  <data name="bienvenida2" xml:space="preserve">
+    <value>Our company, Decopacks, aims to become a benchmark company in the area of ​​packaging design in the cosmetic field of Argentina through our dedication, effort, commitment, innovation and good image to customers. For this, we have proposed to achieve an expansion to different parts of the Argentine region through several branches, in order to satisfy the demand of our clients from different locations. We would also be focused on satisfying the demand of new packaging markets, managing to cover new and different branches of audiences that are not being served in the market.</value>
+  </data>
+  <data name="bienvenida3" xml:space="preserve">
+    <value>The cosmetics industry stands out for its requirement regarding the design of its containers, therefore, the packaging must have an attractiveness towards the customer, since most of the reason for its sale is the impact it causes on the customer based on your design.
+Decopacks mainly stands out from its competitors, thanks to its innovative product designs through the use of high-quality programs aimed at publishing and its personalized advice on the creation part, respecting regulations and seeking creation with materials that impact on the less the environment.
+Our staff is in constant training in new technologies, allowing us to design products in a better way and standing out from the competition in terms of their innovation and creativity when carrying out their tasks.</value>
+  </data>
+  <data name="bienvenida4" xml:space="preserve">
+    <value>Our company Decopacks is dedicated to providing packaging solutions for products in the cosmetic area, therefore, it is focused on making innovative solutions in the area of ​​product design to achieve a better image of this before our client's consumers and that allows a considerable increase in your sales. The clients of our company can be defined as intermediate companies that seek a better vision of their product before the public. Given this, we concentrate our efforts on providing you with an innovative solution, thanks to our highly trained employees in the use of the latest design technologies. We also provide the customer advisory service for the manufacture of the designed product, managing to obtain the best price and manufacture it according to the customer's specifications, always seeking to achieve a reduction in environmental pollution.</value>
+  </data>
+  <data name="bienvenida5" xml:space="preserve">
+    <value>Welcome to the homepage of the packaging company DecoPacks</value>
+  </data>
+  <data name="bienvenida6" xml:space="preserve">
+    <value>For more options please login</value>
+  </data>
+  <data name="bloqueado" xml:space="preserve">
+    <value>Account Locked</value>
+  </data>
+  <data name="buscar" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="buscarpordni" xml:space="preserve">
+    <value>Search by DNI:</value>
+  </data>
+  <data name="cancelar" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="cancelaryvolver" xml:space="preserve">
+    <value>Cancel and Return</value>
+  </data>
+  <data name="cantidad" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="catalogo" xml:space="preserve">
+    <value>Catalogue</value>
+  </data>
+  <data name="catalogo1" xml:space="preserve">
+    <value>Here is the catalog of products to buy. To place the order you must be registered in the system.</value>
+  </data>
+  <data name="catalogodeproductos" xml:space="preserve">
+    <value>Product catalog:</value>
+  </data>
+  <data name="cerrar" xml:space="preserve">
+    <value>Sign off</value>
+  </data>
+  <data name="comprador" xml:space="preserve">
+    <value>Buyer</value>
+  </data>
+  <data name="confirmar" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="crear" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="de" xml:space="preserve">
+    <value>Of</value>
+  </data>
+  <data name="decopacks" xml:space="preserve">
+    <value>Decopacks</value>
+  </data>
+  <data name="deposito" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="descripcion" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="DiseñoyFabricacion" xml:space="preserve">
+    <value>Packaging Design and Manufacture</value>
+  </data>
+  <data name="dnicomprador" xml:space="preserve">
+    <value>Buyer's ID</value>
+  </data>
+  <data name="empleado" xml:space="preserve">
+    <value>Employee</value>
+  </data>
+  <data name="Entidades" xml:space="preserve">
+    <value>Entities</value>
+  </data>
+  <data name="entrar1" xml:space="preserve">
+    <value>Welcome to Decopack, log in:</value>
+  </data>
+  <data name="envio" xml:space="preserve">
+    <value>Shipping</value>
+  </data>
+  <data name="envio1" xml:space="preserve">
+    <value>Shipment Assignment Was Successful</value>
+  </data>
+  <data name="envio2" xml:space="preserve">
+    <value>The shipment was confirmed successfully</value>
+  </data>
+  <data name="envioasignar1" xml:space="preserve">
+    <value>This is the page to assign pending shipments to the delivery clerk.</value>
+  </data>
+  <data name="envioasignar2" xml:space="preserve">
+    <value>Assign Shipping:</value>
+  </data>
+  <data name="envioestadoenvio1" xml:space="preserve">
+    <value>Here you can see the status of the shipments received</value>
+  </data>
+  <data name="envioestadoenvio2" xml:space="preserve">
+    <value>Shipping Status:</value>
+  </data>
+  <data name="envioindex1" xml:space="preserve">
+    <value>Here are all the shipments of the buyers' orders. When an order arrives, it is assigned to an employee and the employee confirms the arrival of the product.</value>
+  </data>
+  <data name="envioindex2" xml:space="preserve">
+    <value>Shipping List:</value>
+  </data>
+  <data name="envioindexempleado1" xml:space="preserve">
+    <value>Here the shipments assigned to the employee are displayed. Deliver the product and confirm to finish each shipment.</value>
+  </data>
+  <data name="envioindexempleado2" xml:space="preserve">
+    <value>Shipping List:</value>
+  </data>
+  <data name="estado" xml:space="preserve">
+    <value>State</value>
+  </data>
+  <data name="fecha" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="guardar" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="hacerpedido" xml:space="preserve">
+    <value>Make an order</value>
+  </data>
+  <data name="hola" xml:space="preserve">
+    <value>Hi</value>
+  </data>
+  <data name="inconveniente" xml:space="preserve">
+    <value>Inconvenient</value>
+  </data>
+  <data name="iniciar" xml:space="preserve">
+    <value>Log in</value>
+  </data>
+  <data name="Inicio" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="listapedidos" xml:space="preserve">
+    <value>Order list</value>
+  </data>
+  <data name="materiaprima" xml:space="preserve">
+    <value>Raw material</value>
+  </data>
+  <data name="materiaprimaproducto" xml:space="preserve">
+    <value>Raw Material - Product</value>
+  </data>
+  <data name="materiaprimaproveedor" xml:space="preserve">
+    <value>Raw Material - Supplier</value>
+  </data>
+  <data name="mensajeayuda" xml:space="preserve">
+    <value>If You Need Help Click Here</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="misenvios" xml:space="preserve">
+    <value>My shipments</value>
+  </data>
+  <data name="mispedidos" xml:space="preserve">
+    <value>My orders</value>
+  </data>
+  <data name="monto" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="nombreproducto" xml:space="preserve">
+    <value>Product name</value>
+  </data>
+  <data name="OperacionesPrincipales" xml:space="preserve">
+    <value>Main Operations</value>
+  </data>
+  <data name="pagar" xml:space="preserve">
+    <value>Pay</value>
+  </data>
+  <data name="pagina" xml:space="preserve">
+    <value>Page</value>
+  </data>
+  <data name="paneladmin" xml:space="preserve">
+    <value>Admin panel</value>
+  </data>
+  <data name="pedido" xml:space="preserve">
+    <value>Orders</value>
+  </data>
+  <data name="pedido1" xml:space="preserve">
+    <value>The Order Was Successfully Approved</value>
+  </data>
+  <data name="pedido2" xml:space="preserve">
+    <value>The Order Was Successfully Paid</value>
+  </data>
+  <data name="pedido3" xml:space="preserve">
+    <value>The Order Was Successfully Paid</value>
+  </data>
+  <data name="pedidoaprobar1" xml:space="preserve">
+    <value>Approve Order:</value>
+  </data>
+  <data name="pedidoaprobarh" xml:space="preserve">
+    <value>This is the form is to approve an order. The employee enters the amount of work according to the request.</value>
+  </data>
+  <data name="pedidocrear1" xml:space="preserve">
+    <value>Create Order:</value>
+  </data>
+  <data name="pedidocrearh" xml:space="preserve">
+    <value>This is the form to register an order. Enter the quantity of the product to buy, the description detailing the work to be done and optionally a logo for the product.</value>
+  </data>
+  <data name="pedidoindex1" xml:space="preserve">
+    <value>Here are all the orders that have been made over time. The Order is created by a buyer pending confirmation of the final price from the employee. Once confirmed, the buyer can make the payment for the sale.</value>
+  </data>
+  <data name="pedidoindexusuario1" xml:space="preserve">
+    <value>Here are all the orders that have been made over time. The orders placed await a confirmation from our employees to confirm the final price of the work. Once confirmed, the payment of the same will be enabled. Once paid, you can check the delivery status of the purchased product to your home address.</value>
+  </data>
+  <data name="pedidoindexusuario2" xml:space="preserve">
+    <value>Order List:</value>
+  </data>
+  <data name="producto" xml:space="preserve">
+    <value>Product</value>
+  </data>
+  <data name="proveedor" xml:space="preserve">
+    <value>Supplier</value>
+  </data>
+  <data name="registrarse" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="reposicion" xml:space="preserve">
+    <value>Replacement</value>
+  </data>
+  <data name="reposicion1" xml:space="preserve">
+    <value>The Reposition was successful</value>
+  </data>
+  <data name="reposicion2" xml:space="preserve">
+    <value>Successful Reposition Cancellation</value>
+  </data>
+  <data name="reposicion3" xml:space="preserve">
+    <value>Order Confirmed Reporting a Problem</value>
+  </data>
+  <data name="reposicionindex1" xml:space="preserve">
+    <value>The reruns are displayed on this page. Replenishments are generated due to lack of stock of a specific product or due to a replacement carried out by an employee. By confirming the reposition, the reception of the same is assured. You can also confirm the replacement by notifying that there were problems with the supplier of the product.</value>
+  </data>
+  <data name="reposicionindex2" xml:space="preserve">
+    <value>Replacement List:</value>
+  </data>
+  <data name="salida1" xml:space="preserve">
+    <value>New Account Creation:</value>
+  </data>
+  <data name="salida2" xml:space="preserve">
+    <value>This account has been locked, please try again later.</value>
+  </data>
+  <data name="Stock" xml:space="preserve">
+    <value>Stock</value>
+  </data>
+  <data name="stockmateriaprimadeposito" xml:space="preserve">
+    <value>Stock of Raw Material - Deposit</value>
+  </data>
+  <data name="verenvio" xml:space="preserve">
+    <value>See shipping</value>
+  </data>
+</root>

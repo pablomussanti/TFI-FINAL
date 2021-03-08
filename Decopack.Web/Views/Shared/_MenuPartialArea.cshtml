@@ -1,0 +1,10 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    if (HttpContext.Current.User.IsInRole("Admin"))
+    {
+    <ul class="nav navbar-nav">
+        <li>@Html.ActionLink(@Recursos.Recurso.paneladmin, "Index", "AdminHome", new { area = "Admin" }, null)</li>
+    </ul>
+    }
+}

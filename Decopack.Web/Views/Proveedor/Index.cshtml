@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Decopack.EE.Proveedor>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se muestran los proveedores disponibles en el sistema</p><br />
+
+    </div>
+</form>
+
+
+<h2>Lista de Proveedores:</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo Proveedor", "Create",null, new { @class = "button" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+           Cantidad De Errores En Entregas
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefono)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cantidaddeerrores)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Telefono)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id }, new { @class = "button" }) 
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.Id }, new { @class = "button" })
+        </td>
+    </tr>
+}
+
+</table>

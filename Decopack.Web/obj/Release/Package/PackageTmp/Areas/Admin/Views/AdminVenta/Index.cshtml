@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Decopack.EE.Venta>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se ve el resumen de ventas del sistema</p><br />
+
+    </div>
+</form>
+
+<h2>Listado de historial de ventas:</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Empleado.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pedido.Comprador.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Formadepago)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Monto)
+        </th>
+
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Empleado.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pedido.Comprador.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Formadepago)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Monto)
+        </td>
+    </tr>
+}
+
+</table>

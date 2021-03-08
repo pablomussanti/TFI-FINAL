@@ -1,0 +1,631 @@
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.Web.dll.config
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.Web.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.Web.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\csc.exe
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\csc.exe.config
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\csc.rsp
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\csi.exe
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\csi.exe.config
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\csi.rsp
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.AppContext.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Console.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\vbc.exe
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\vbc.exe.config
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\vbc.rsp
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Antlr3.Runtime.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\EntityFramework.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Newtonsoft.Json.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Owin.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.Helpers.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.Mvc.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.Optimization.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.Razor.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.WebPages.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\WebGrease.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.Helpers.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.Mvc.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.Optimization.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.Razor.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.WebPages.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Newtonsoft.Json.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Antlr3.Runtime.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\EntityFramework.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\EntityFramework.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\obj\Debug\Decopack.Web.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\obj\Debug\Decopack.Web.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\obj\Debug\Decopack.Web.csproj.CopyComplete
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\obj\Debug\Decopack.Web.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\obj\Debug\Decopack.Web.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Boilerplate.Web.Mvc5.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.EE.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.Framework.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.IoC.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.Process.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\WebActivatorEx.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\StructureMap.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\StructureMap.Net4.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\StructureMap.Web.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.EE.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.Framework.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.IoC.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.Process.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Decopack.Process.dll.config
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Boilerplate.Web.Mvc5.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\StructureMap.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\StructureMap.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\StructureMap.Net4.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\StructureMap.Web.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Web\bin\StructureMap.Web.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Web.dll.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Web.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Web.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\csc.exe
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\csc.exe.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\csc.rsp
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\csi.exe
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\csi.exe.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\csi.rsp
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.AppContext.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Console.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\vbc.exe
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\vbc.exe.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\vbc.rsp
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Antlr3.Runtime.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Boilerplate.Web.Mvc5.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.EE.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Framework.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.IoC.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Process.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\EntityFramework.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Newtonsoft.Json.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Owin.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.Helpers.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.Mvc.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.Optimization.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.Razor.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.WebPages.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\WebActivatorEx.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\WebGrease.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\StructureMap.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\StructureMap.Net4.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\StructureMap.Web.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.EE.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Framework.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.IoC.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Process.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Process.dll.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Boilerplate.Web.Mvc5.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.Helpers.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.Mvc.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.Optimization.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.Razor.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.WebPages.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Newtonsoft.Json.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Antlr3.Runtime.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\EntityFramework.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\StructureMap.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\StructureMap.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\StructureMap.Net4.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\StructureMap.Web.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\StructureMap.Web.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\EntityFramework.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\obj\Debug\Decopack.Web.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\obj\Debug\Decopack.Web.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\obj\Debug\Decopack.Web.csproj.CopyComplete
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\obj\Debug\Decopack.Web.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\obj\Debug\Decopack.Web.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Services.Contracts.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Services.Contracts.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Servicios.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Web\bin\Decopack.Servicios.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Web.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Web.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Web.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\csc.exe
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\csc.exe.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\csc.rsp
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\csi.exe
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\csi.exe.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\csi.rsp
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.AppContext.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Console.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\vbc.exe
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\vbc.exe.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\vbc.rsp
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Antlr3.Runtime.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Boilerplate.Web.Mvc5.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.EE.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Framework.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.IoC.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Process.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Servicios.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\EntityFramework.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Newtonsoft.Json.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Owin.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\PagedList.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\PagedList.Mvc.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.Helpers.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.Mvc.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.Optimization.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.Razor.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\WebActivatorEx.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\WebGrease.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\StructureMap.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Services.Contracts.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Services.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\StructureMap.Net4.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\StructureMap.Web.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.BLL.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.DAL.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\FireSharp.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\RestSharp.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.EE.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Framework.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.IoC.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.IoC.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Process.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Process.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Servicios.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Boilerplate.Web.Mvc5.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\PagedList.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\PagedList.Mvc.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.Helpers.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.Mvc.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.Optimization.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.Razor.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Newtonsoft.Json.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Antlr3.Runtime.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\EntityFramework.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\StructureMap.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\StructureMap.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Services.Contracts.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Services.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.Services.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\StructureMap.Net4.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\StructureMap.Web.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\StructureMap.Web.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.BLL.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.BLL.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.DAL.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Decopack.DAL.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\RestSharp.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\EntityFramework.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csproj.CopyComplete
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csproj.CoreCompileInputs.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Web.dll.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Web.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Web.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\en-US\Decopack.Web.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\csc.exe
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\csc.exe.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\csc.rsp
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\csi.exe
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\csi.exe.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\csi.rsp
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.AppContext.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Console.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.Compression.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.IO.Pipes.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Claims.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.ValueTuple.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Xml.XPath.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\vbc.exe
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\vbc.exe.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\vbc.rsp
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\VBCSCompiler.exe
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Antlr3.Runtime.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Boilerplate.Web.Mvc5.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.EE.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Framework.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.IoC.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Process.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Servicios.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\EntityFramework.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\EntityFramework.SqlServer.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Firebase.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\LiteDB.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Newtonsoft.Json.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Owin.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\PagedList.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\PagedList.Mvc.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Reactive.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.Helpers.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.Mvc.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.Optimization.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.Razor.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.Deployment.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.Razor.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\WebActivatorEx.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\WebGrease.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\StructureMap.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Services.Contracts.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Services.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\StructureMap.Net4.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\StructureMap.Web.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Net.Http.Formatting.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.BLL.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.DAL.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\FireSharp.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\RestSharp.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.EE.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Framework.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.IoC.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.IoC.dll.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Process.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Process.dll.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Servicios.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Boilerplate.Web.Mvc5.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Firebase.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\LiteDB.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Newtonsoft.Json.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\PagedList.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\PagedList.Mvc.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Reactive.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.Helpers.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.Mvc.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.Optimization.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.Razor.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.Deployment.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\System.Web.WebPages.Razor.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Antlr3.Runtime.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\EntityFramework.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\EntityFramework.SqlServer.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\StructureMap.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\StructureMap.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Services.Contracts.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Services.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.Services.dll.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\StructureMap.Net4.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\StructureMap.Web.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\StructureMap.Web.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.BLL.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.BLL.dll.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.DAL.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Decopack.DAL.dll.config
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\RestSharp.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\en-US\Decopack.EE.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\System.Web.Helpers.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\System.Web.Mvc.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\System.Web.Optimization.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\System.Web.Razor.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\System.Web.WebPages.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\EntityFramework.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csprojAssemblyReference.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.Recursos.Recurso.resources
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.Recursos.Recurso.en-US.resources
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csproj.GenerateResource.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csproj.CoreCompileInputs.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\en-US\Decopack.Web.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.csproj.CopyComplete
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Web\obj\Debug\Decopack.Web.pdb

@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Decopack.Host.Web.Global" Language="C#" %>
