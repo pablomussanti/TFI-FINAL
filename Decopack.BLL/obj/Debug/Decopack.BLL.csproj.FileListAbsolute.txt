@@ -1,0 +1,187 @@
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\obj\Debug\Decopack.BLL.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Decopack.BLL.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Decopack.BLL.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Decopack.EE.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Decopack.Framework.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Decopack.IoC.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\WebActivatorEx.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\StructureMap.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\StructureMap.Net4.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\StructureMap.Web.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Decopack.EE.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Decopack.Framework.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Decopack.IoC.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\StructureMap.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\StructureMap.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\StructureMap.Net4.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\StructureMap.Web.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\StructureMap.Web.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CopyComplete
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\obj\Debug\Decopack.BLL.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.BLL\obj\Debug\Decopack.BLL.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.BLL.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.BLL.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.EE.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.Framework.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.EE.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.Framework.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\obj\Debug\Decopack.BLL.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CopyComplete
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\obj\Debug\Decopack.BLL.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\obj\Debug\Decopack.BLL.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.DAL.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.DAL.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.Servicios.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.Servicios.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.BLL.dll.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\FireSharp.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Decopack.DAL.dll.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.BLL\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.EE.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Framework.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Servicios.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\FireSharp.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\RestSharp.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.EE.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Framework.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Servicios.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\RestSharp.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CopyComplete
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.dll.config
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.EE.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Framework.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Servicios.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\FireSharp.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\RestSharp.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.dll.config
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.EE.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Framework.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Servicios.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\RestSharp.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CopyComplete
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.dll.config
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.BLL.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.EE.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Framework.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Servicios.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\FireSharp.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Mvc.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\RestSharp.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Razor.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.DAL.dll.config
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.EE.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Framework.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Decopack.Servicios.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Mvc.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\RestSharp.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.Razor.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\bin\Debug\en-US\Decopack.EE.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csprojAssemblyReference.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CoreCompileInputs.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.csproj.CopyComplete
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.BLL\obj\Debug\Decopack.BLL.pdb

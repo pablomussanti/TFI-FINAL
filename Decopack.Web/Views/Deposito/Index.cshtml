@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Decopack.EE.Deposito>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se visualizan los datos del propio deposito que se utilizan para el stock y reposiciones</p><br />
+
+    </div>
+</form>
+
+
+<h2>Datos del Deposito:</h2>
+
+@if (ViewBag.deposito)
+{
+<p>
+    @Html.ActionLink("Generar Datos del Deposito", "Create")
+</p>
+}
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Detalle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CodigoPostal)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Detalle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Direccion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefono)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CodigoPostal)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "button" }) 
+                </td>
+            </tr>
+        }
+
+    </table>

@@ -1,0 +1,12 @@
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\bin\Release\Decopack.Servicios.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\bin\Release\Decopack.Servicios.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\bin\Release\Decopack.EE.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\bin\Release\Newtonsoft.Json.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\bin\Release\Decopack.EE.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\bin\Release\Newtonsoft.Json.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\bin\Release\en-US\Decopack.EE.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\obj\Release\Decopack.Servicios.csprojAssemblyReference.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\obj\Release\Decopack.Servicios.csproj.CoreCompileInputs.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\obj\Release\Decopack.Servicios.csproj.CopyComplete
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\obj\Release\Decopack.Servicios.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Servicios\obj\Release\Decopack.Servicios.pdb

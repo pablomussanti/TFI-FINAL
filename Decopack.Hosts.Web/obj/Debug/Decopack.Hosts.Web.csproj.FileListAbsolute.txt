@@ -1,0 +1,57 @@
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.dll.config
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\Swashbuckle.Core.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\System.Web.Http.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\WebActivatorEx.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\System.Web.Http.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csproj.CopyComplete
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.dll.config
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\Swashbuckle.Core.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\System.Web.Http.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\WebActivatorEx.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\System.Web.Http.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csproj.CopyComplete
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.dll.config
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\Decopack.Hosts.Web.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\Swashbuckle.Core.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\System.Web.Http.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\WebActivatorEx.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\System.Web.Http.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.csproj.CopyComplete
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Hosts.Web\obj\Debug\Decopack.Hosts.Web.pdb

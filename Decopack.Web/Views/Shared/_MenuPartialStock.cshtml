@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+<div class="collapse navbar-collapse" id="navbarResponsive">
+    <ul class="nav navbar-nav">
+        <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.producto, "Index", "Producto")</li>
+        <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.materiaprima, "Index", "MateriaPrima")</li>
+        <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.deposito, "Index", "Deposito")</li>
+        <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.reposicion, "Index", "Reposicion")</li>
+        <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.proveedor, "Index", "Proveedor")</li>
+        <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.stockmateriaprimadeposito, "Index", "StockMateriaPrimaDeposito")</li>
+        <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.materiaprimaproducto, "Index", "MateriaPrimaProducto")</li>
+        <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.materiaprimaproveedor, "Index", "MateriaPrimaProveedor")</li>
+    </ul>
+</div>
+
+}

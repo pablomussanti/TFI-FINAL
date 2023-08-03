@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+@if (@ViewBag.Alert != null)
+{
+    <div class="alert alert-dismissable alert-info">
+        <button type="submit" class="close" data-dismiss="alert" style="background-color:darkseagreen">
+            &times;
+        </button>
+        <button style="background-color:darkseagreen">   @ViewBag.Alert</button>
+    </div>
+}
+
+<br />
+
+<h3 align="center">
+    @Recursos.Recurso.bienvenida5
+</h3>
+
+<h5 align="center">
+    @Recursos.Recurso.bienvenida6
+</h5>
+
+
+
+<br />
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" align="center">
+    <!-- Indicators -->
+    @*<ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>*@
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" align="center">
+        <div class="item active">
+            <img align="middle" src="~/Content/foto2.jpg" height="700" width="1200" />
+        </div>
+
+        <br />
+
+        <div class="item">
+
+            @Recursos.Recurso.bienvenida1
+
+
+            @Recursos.Recurso.bienvenida2
+
+        </div>
+
+        <br />
+
+        <div class="item">
+            <img align="middle" src="~/Content/foto3.jpg" height="700" width="1200" />
+
+        </div>
+
+        <br />
+        <div class="item">
+
+            @Recursos.Recurso.bienvenida3
+
+
+        </div>
+
+        <br />
+
+        <div class="item">
+
+            <img align="middle" src="~/Content/foto4.jpg" height="700" width="1200" />
+
+        </div>
+
+        <br />
+
+        <div class="item">
+
+            @Recursos.Recurso.bienvenida4
+
+        </div>
+
+
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+
+
+

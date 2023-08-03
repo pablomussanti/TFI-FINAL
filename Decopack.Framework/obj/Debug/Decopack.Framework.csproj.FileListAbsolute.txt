@@ -1,0 +1,100 @@
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\Decopack.Framework.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\Decopack.Framework.pdb
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.Helpers.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.Mvc.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.Razor.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.WebPages.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.Helpers.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.Mvc.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.Razor.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.WebPages.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\obj\Debug\Decopack.Framework.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CopyComplete
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\obj\Debug\Decopack.Framework.dll
+C:\Users\elmus\source\repos\Decopack\Decopack.Framework\obj\Debug\Decopack.Framework.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\obj\Debug\Decopack.Framework.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\obj\Debug\Decopack.Framework.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\obj\Debug\Decopack.Framework.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\Decopack.Framework.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\Decopack.Framework.pdb
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.Helpers.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.Mvc.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.Razor.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.WebPages.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.Helpers.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.Mvc.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.Razor.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.WebPages.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\elmus\source\repos\SAPFinal\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CopyComplete
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\Decopack.Framework.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\Decopack.Framework.pdb
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Helpers.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Mvc.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Razor.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Helpers.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Mvc.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Razor.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CopyComplete
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.dll
+C:\Users\elmus\Desktop\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\Decopack.Framework.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\Decopack.Framework.pdb
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Helpers.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Mvc.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Razor.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Helpers.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Mvc.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Razor.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CopyComplete
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.dll
+C:\Users\elmus\Desktop\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\Decopack.Framework.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\Decopack.Framework.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Helpers.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Mvc.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Razor.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Helpers.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Mvc.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.Razor.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csprojAssemblyReference.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CoreCompileInputs.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.csproj.CopyComplete
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.Framework\obj\Debug\Decopack.Framework.pdb

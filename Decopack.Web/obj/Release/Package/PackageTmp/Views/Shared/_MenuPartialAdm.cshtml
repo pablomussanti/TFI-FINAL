@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+
+
+    if (HttpContext.Current.User.IsInRole("Admin"))
+    {
+<ul class="nav navbar-nav">
+    <li>@Html.ActionLink("Bitacora", "Index", "AdminBitacora", new { area = "Admin" }, null)</li>
+    <li>@Html.ActionLink("Permiso", "Index", "AdminPermiso", new { area = "Admin" }, null)</li>
+    <li>@Html.ActionLink("Usuario", "Index", "AdminUsuario", new { area = "Admin" }, null)</li>
+    <li>@Html.ActionLink("Control de Cambios", "Index", "AdminProductoCC", new { area = "Admin" }, null)</li>
+    <li>@Html.ActionLink("Historial de Ventas", "Index", "AdminVenta", new { area = "Admin" }, null)</li>
+    <li>@Html.ActionLink("Asignar Permiso A Usuario", "Index", "AdminPermisoUsuario", new { area = "Admin" }, null)</li>
+</ul>
+    }
+}

@@ -1,0 +1,46 @@
+﻿@model Decopack.Servicios.Usuario
+
+@{
+    ViewBag.Title = "AsignarEmpleado";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se realiza la asignacion de un empleado a un usuario</p><br />
+
+    </div>
+</form>
+
+<h2>Asignar Empleado a Usuario:</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>Usuario</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodEmpleado, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("codempleado", null, htmlAttributes: new { @class = "form-control" })
+        </div>
+    </div>
+
+    <input type="hidden" name="codigo" value="@ViewBag.codigo" />
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Crear" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Cancelar y Volver", "Index")
+</div>

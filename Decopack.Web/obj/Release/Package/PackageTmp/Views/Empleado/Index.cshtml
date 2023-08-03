@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Decopack.EE.Empleado>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se muestran los empleados cargados en el sistema</p><br />
+
+    </div>
+</form>
+
+<h2>Lista de Empleados:</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo Empleado", "Create",null, new { @class = "button" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefono)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fechadeingreso)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Detalle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Deposito.Detalle)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Apellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Telefono)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fechadeingreso)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Detalle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Deposito.Detalle)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id }, new { @class = "button" }) 
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.Id }, new { @class = "button" })
+        </td>
+    </tr>
+}
+
+</table>

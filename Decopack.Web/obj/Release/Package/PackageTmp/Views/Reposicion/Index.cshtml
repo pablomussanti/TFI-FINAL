@@ -1,0 +1,106 @@
+﻿@model IEnumerable<Decopack.EE.Reposicion>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-dismissable alert-info">
+        <button type="submit" class="close" data-dismiss="alert" style="background-color:darkseagreen">
+            &times;
+        </button>
+        <button style="background-color:darkseagreen">   @TempData["Message"]</button>
+    </div>
+}
+
+<br />
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">@Recursos.Recurso.reposicionindex1</p><br />
+
+    </div>
+</form>
+
+<h2>@Recursos.Recurso.reposicionindex2</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </th>
+        <th>
+            Nombre de la Materia Prima
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Monto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Deposito.Detalle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th>
+            Nombre del Proveedor
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MateriaPrima.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Monto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deposito.Detalle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Proveedor.Nombre)
+            </td>
+            <td>
+                <p>
+                    @*@if (item.Estado == "Pendiente")
+                        {
+
+                            @Html.ActionLink(@Recursos.Recurso.cancelar, "Delete", new { id = item.Id }, new { @class = "button" })
+
+                        }*@
+                    @if (item.Estado == "Pendiente")
+                    {
+
+                        @Html.ActionLink(@Recursos.Recurso.confirmar, "Confirmar", new { id = item.Id }, new { @class = "button" })
+
+                    }
+                    @if (item.Estado == "Pendiente")
+                    {
+
+                        @Html.ActionLink(@Recursos.Recurso.inconveniente, "Informar", new { id = item.Id }, new { @class = "button" })
+
+                    }
+                </p>
+            </td>
+        </tr>
+    }
+
+</table>

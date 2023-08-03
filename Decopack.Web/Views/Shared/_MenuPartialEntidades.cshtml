@@ -1,0 +1,23 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="nav navbar-nav">
+
+            @if (HttpContext.Current.User.IsInRole("EmpleadoSucursal"))
+            {
+                <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.comprador, "Index", "Comprador")</li>
+            }
+
+            @if (HttpContext.Current.User.IsInRole("EncargadoDeposito"))
+            {
+                <li class="nav-link">@Html.ActionLink(@Recursos.Recurso.empleado, "Index", "Empleado")</li>
+            }
+
+
+
+
+        </ul>
+    </div>
+
+}

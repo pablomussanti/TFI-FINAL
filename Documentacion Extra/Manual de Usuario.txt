@@ -1,0 +1,1 @@
+El manual de usuario fue incluido dentro de la web en "Ayuda", donde se da un descripcion de las tareas de la ventana y pasos a seguir. Para mas detalles ver la documentacion.

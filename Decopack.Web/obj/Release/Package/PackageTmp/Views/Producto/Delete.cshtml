@@ -1,0 +1,67 @@
+﻿@model Decopack.EE.Producto
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se realiza la eliminacion del producto seleccionado</p><br />
+
+    </div>
+</form>
+
+
+<h3>Elemento a Reactivar/Dar de Baja:</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+
+
+    </dl>
+    <br />
+
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Confirmar" class="btn btn-default" /> |
+            @Html.ActionLink("Cancelar y Volver", "Index",null, new { @class = "button" })
+        </div>
+    }
+</div>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA47DD02-DC1A-4D59-82B2-7A9435B9552C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Decopack.Process</RootNamespace>
+    <AssemblyName>Decopack.Process</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.2.0.20126.16343\lib\net40\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Extensions, Version=2.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=4.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.2.0.20126.16343\lib\net40\System.Net.Http.WebRequest.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BitacoraProcess.cs" />
+    <Compile Include="CompradorProcess.cs" />
+    <Compile Include="DepositoProcess.cs" />
+    <Compile Include="EmpleadoProcess.cs" />
+    <Compile Include="EnvioProcess.cs" />
+    <Compile Include="MateriaPrimaProcess.cs" />
+    <Compile Include="MateriaPrimaProductoProcess.cs" />
+    <Compile Include="MateriaPrimaProveedorProcess.cs" />
+    <Compile Include="MediaType.cs" />
+    <Compile Include="PedidoProcess.cs" />
+    <Compile Include="PermisoProcess.cs" />
+    <Compile Include="PermisoUsuarioProcess.cs" />
+    <Compile Include="ProcessComponent.cs" />
+    <Compile Include="ProductoCCProcess.cs" />
+    <Compile Include="ProductoDVVProcess.cs" />
+    <Compile Include="ProductoProcess.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProveedorProcess.cs" />
+    <Compile Include="ReposicionProcess.cs" />
+    <Compile Include="StockMateriaPrimaDepositoProcess.cs" />
+    <Compile Include="StockProductoDepositoProcess.cs" />
+    <Compile Include="UsuarioProcess.cs" />
+    <Compile Include="VentaProcess.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Decopack.EE\Decopack.EE.csproj">
+      <Project>{f5df9b8f-bf81-4835-a481-618424700815}</Project>
+      <Name>Decopack.EE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Decopack.Framework\Decopack.Framework.csproj">
+      <Project>{080bd10b-b1cf-47f4-90f7-aeb8319e6444}</Project>
+      <Name>Decopack.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Decopack.Services.Contracts\Decopack.Services.Contracts.csproj">
+      <Project>{64f6e8cd-dfca-4f94-930e-5a34bd294669}</Project>
+      <Name>Decopack.Services.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Decopack.Services\Decopack.Services.csproj">
+      <Project>{CA744499-D434-42C4-972E-0B3D67968DF2}</Project>
+      <Name>Decopack.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Decopack.Servicios\Decopack.Servicios.csproj">
+      <Project>{EBA34223-0DE2-457C-9A1B-9B5EBFB98C22}</Project>
+      <Name>Decopack.Servicios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

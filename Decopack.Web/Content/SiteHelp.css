@@ -1,0 +1,15 @@
+﻿.helpButton {
+    background-color: brown;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.help {
+    display: none;
+    border: solid 1px black;
+    background-color: brown;
+}
+
+#container {
+    display: inline-block;
+}

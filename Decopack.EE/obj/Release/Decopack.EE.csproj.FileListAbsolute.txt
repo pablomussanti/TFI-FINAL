@@ -1,0 +1,11 @@
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\bin\Release\Decopack.EE.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\bin\Release\Decopack.EE.pdb
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\bin\Release\en-US\Decopack.EE.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Release\Decopack.EE.csprojAssemblyReference.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Release\Decopack.EE.Recursos.Recurso.resources
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Release\Decopack.EE.Recursos.Recurso.en-US.resources
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Release\Decopack.EE.csproj.GenerateResource.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Release\Decopack.EE.csproj.CoreCompileInputs.cache
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Release\en-US\Decopack.EE.resources.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Release\Decopack.EE.dll
+C:\TFI FINAL\Nueva carpeta\Decopack.EE\obj\Release\Decopack.EE.pdb

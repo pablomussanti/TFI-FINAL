@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Decopack.Servicios.Permiso>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div id="container">
+        <label></label><span class="helpButton button">@Recursos.Recurso.mensajeayuda</span>
+        <p class="help">Aqui se muestra el listado de los permisos del sistema</p><br />
+
+    </div>
+</form>
+
+<h2>Listado de Permisos:</h2>
+
+<p>
+    @Html.ActionLink("Generar Nuevo Permiso", "Create",null, new { @class = "button" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipo)
+        </td>
+        <td>
+            @Html.ActionLink("Eliminar", "Eliminar", new { id = item.RoleId }, new { @class = "button" })
+        </td>
+    </tr>
+}
+
+</table>
